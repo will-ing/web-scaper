@@ -48,7 +48,7 @@ Unit testing is included in the project using the pytest outputs. Tests have bee
 
 ## Data Flow
 
-???
+Enter wiki page -> run methods for count and report -> returns number of cites and displays the paragraphs
 
 ---
 
